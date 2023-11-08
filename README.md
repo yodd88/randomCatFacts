@@ -1,2 +1,2 @@
 # someRep
-for notes
+for notes ONLY
